@@ -1,0 +1,38 @@
+2019-03-25 15:09:26,644 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-25 15:10:01,758 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.uk.staTravel.Test:STATravelTest:0.0.1-SNAPSHOT @ C:\Users\Kiranmai.adams\Downloads\STATravelTest\pom.xml.
+2019-03-25 15:10:05,148 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:10:05,148 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:10:05,153 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:10:05,153 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
+2019-03-25 15:10:21,788 [Worker-8: Launching Executing clean in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kiranmai.adams\Downloads\STATravelTest
+2019-03-25 15:10:21,788 [Worker-8: Launching Executing clean in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-25 15:10:24,371 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:10:24,371 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:10:24,372 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:10:24,373 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
+2019-03-25 15:10:31,207 [Worker-3: Launching Executing install in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kiranmai.adams\Downloads\STATravelTest
+2019-03-25 15:10:31,207 [Worker-3: Launching Executing install in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-25 15:10:34,293 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:10:34,296 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:10:34,325 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:10:34,326 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
+2019-03-25 15:12:10,501 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:10,501 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:12:10,508 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:10,515 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
+2019-03-25 15:12:16,584 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:16,584 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:12:16,594 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:16,602 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
+2019-03-25 15:12:19,693 [Worker-6: Launching Executing clean in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kiranmai.adams\Downloads\STATravelTest
+2019-03-25 15:12:19,693 [Worker-6: Launching Executing clean in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-25 15:12:21,740 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:21,745 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:12:21,750 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:21,751 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
+2019-03-25 15:12:34,762 [Worker-8: Launching Executing install in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Kiranmai.adams\Downloads\STATravelTest
+2019-03-25 15:12:34,763 [Worker-8: Launching Executing install in C__Users_Kiranmai.adams_Downloads_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-25 15:12:53,177 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:53,177 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\main\resources
+2019-03-25 15:12:53,185 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:12:53,191 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kiranmai.adams\Downloads\STATravelTest\src\test\resources
