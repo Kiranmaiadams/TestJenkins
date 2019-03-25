@@ -1,0 +1,3 @@
+co\uk\staTravel\Test\AppTest.class
+stepDefinitions\TestCaseDefinitions.class
+cucumberOptions\TestRunner.class
