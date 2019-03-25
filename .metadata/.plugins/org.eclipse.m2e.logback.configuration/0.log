@@ -42,3 +42,19 @@
 2019-03-25 15:17:47,280 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\main\resources
 2019-03-25 15:17:47,282 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-25 15:17:47,283 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\test\resources
+2019-03-25 15:18:27,060 [Worker-2: Launching Executing clean in C__Testjen_TestJenkins_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Testjen\TestJenkins\STATravelTest
+2019-03-25 15:18:27,061 [Worker-2: Launching Executing clean in C__Testjen_TestJenkins_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-25 15:18:29,308 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:18:29,308 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\main\resources
+2019-03-25 15:18:29,309 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:18:29,309 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\test\resources
+2019-03-25 15:18:30,373 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:18:30,374 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\main\resources
+2019-03-25 15:18:30,377 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:18:30,377 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\test\resources
+2019-03-25 15:18:36,060 [Worker-12: Launching Executing install in C__Testjen_TestJenkins_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Testjen\TestJenkins\STATravelTest
+2019-03-25 15:18:36,060 [Worker-12: Launching Executing install in C__Testjen_TestJenkins_STATravelTest] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-25 15:18:52,822 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:18:52,822 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\main\resources
+2019-03-25 15:18:52,835 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-25 15:18:52,844 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Testjen\TestJenkins\STATravelTest\src\test\resources
